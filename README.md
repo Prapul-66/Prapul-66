@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Prapul</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-<p align="center">
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=Prapul-66&label=Visitors&color=0e75b6&style=flat)
-</p>
 
 ---
 
