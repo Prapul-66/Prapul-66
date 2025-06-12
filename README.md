@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sai Prapul</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
+<p align="center">
+  ![Visitor Badge](https://komarev.com/ghpvc/?username=Prapul-66&label=Visitors&color=0e75b6&style=flat)
+</p>
+
+---
+
+### 👨‍💻 About Me:
+- 🎓 B.Tech student at Parul University (2022–2026)
+- 💡 MERN Stack Developer
+- 🧠 Love building full-stack apps with clean UI
+- 🚀 Currently exploring backend integration and deployment
+
+---
+
 - 🔭 I’m currently working on: **Food App (Swiggy Clone)**  
 - 🌱 I’m currently learning: **Full Stack Web Development**  
 - 👨‍💻 All of my projects are available at: [My GitHub](https://github.com/Prapul-66)  
