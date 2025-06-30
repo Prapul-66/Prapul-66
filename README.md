@@ -36,7 +36,7 @@
 
 ### 🧩 Top Projects:
 - 🔹 [News App](https://github.com/Prapul-66)
-- 🔹 [TextConverter](https://github.com/Prapul-66)
+- 🔹 [Fullstack-Mastery](https://github.com/Prapul-66/Fullstack-Mastery)
 - 🔹 [Restaurant App (WIP)](https://github.com/Prapul-66)
 
 ---
