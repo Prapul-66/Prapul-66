@@ -39,7 +39,6 @@
 ### 🧩 Top Projects:
 - 🔹 [News App](https://github.com/Prapul-66/News-App)
 - 🔹 [Fullstack Mastery](https://github.com/Prapul-66/Fullstack-Mastery)
-- 🔹 [DishDrive - Food App](https://github.com/Prapul-66/Food-App)
 - 🔹 [Restaurant App (WIP)](https://github.com/Prapul-66)
 
 ---
