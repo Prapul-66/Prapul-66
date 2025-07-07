@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sai Prapul</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 B.Tech student at Parul University (2022–2026)
-- 💡 MERN Stack Developer
-- 🧠 Love building full-stack apps with clean UI
-- 🚀 Currently exploring backend integration and deployment
+- 🎓 B.Tech student at Parul University (2022–2026)  
+- 💡 MERN Stack Developer  
+- 🧠 Love building full-stack apps with clean UI  
+- 🚀 Currently exploring backend integration and deployment  
 
 ---
 
@@ -30,18 +29,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </p>
-
-
 
 ---
 
 ### 🧩 Top Projects:
-- 🔹 [News App](https://github.com/Prapul-66)
-- 🔹 [Fullstack-Mastery](https://github.com/Prapul-66/Fullstack-Mastery)
+- 🔹 [News App](https://github.com/Prapul-66/News-App)
+- 🔹 [Fullstack Mastery](https://github.com/Prapul-66/Fullstack-Mastery)
+- 🔹 [DishDrive - Food App](https://github.com/Prapul-66/Food-App)
 - 🔹 [Restaurant App (WIP)](https://github.com/Prapul-66)
 
 ---
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-prapul-131997285)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Prapul-66)
