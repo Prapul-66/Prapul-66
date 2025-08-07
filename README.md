@@ -39,7 +39,7 @@
 ### 📌 Featured Projects
 - 🔹 [News App](https://github.com/Prapul-66/News-App) – A responsive news aggregator using React  
 - 🔹 [Fullstack Mastery](https://github.com/Prapul-66/Fullstack-Mastery) – Learning-focused full-stack repo  
-- 🔹 [Restaurant App (WIP)](https://github.com/Prapul-66) – UI-focused restaurant web app (Work In Progress)
+- 🔹 [Restaurant App ](https://github.com/Prapul-66/Restaurant-App) – UI-focused restaurant web app 
 
 ---
 
