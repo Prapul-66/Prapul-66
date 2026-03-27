@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sai Prapul</h1>
-<h3 align="center">🚀 MERN Stack Developer | B.Tech Student | Passionate about Full-Stack Development</h3>
+<h3 align="center">🚀 Aspiring Software Developer | B.Tech CSE | Building Scalable Full-Stack Applications</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech in Computer Science @ Parul University (2022–2026)  
-- 💻 Focused on building scalable and responsive full-stack applications  
-- 🔧 Love working with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
-- 🚀 Currently exploring **backend integration**, **API development**, and **deployment** strategies  
-- 🎯 Passionate about clean UI, smooth user experience, and real-world problem solving
+- 💻 Strong foundation in **Data Structures, Algorithms, and Software Engineering**  
+- 🔧 Experience in building **full-stack web applications** using modern technologies  
+- 🚀 Skilled in developing **scalable backend systems, REST APIs, and responsive UIs**  
+- 🎯 Focused on writing **clean, efficient, and maintainable code**  
 
 ---
 
 ### 💼 Portfolio & Contact
 - 🌐 GitHub: [github.com/Prapul-66](https://github.com/Prapul-66)  
 - 📫 Email: **sprapul12@gmail.com**  
-- 💬 Ask me about: **React.js, Node.js, Express.js, MongoDB**
+- 💬 Ask me about: **JavaScript, React.js, Node.js, APIs, DSA**
 
 ---
 
@@ -37,9 +37,10 @@
 ---
 
 ### 📌 Featured Projects
-- 🔹 [News App](https://github.com/Prapul-66/News-App) – A responsive news aggregator using React  
-- 🔹 [Fullstack Mastery](https://github.com/Prapul-66/Fullstack-Mastery) – Learning-focused full-stack repo  
-- 🔹 [Restaurant App ](https://github.com/Prapul-66/Restaurant-App) – UI-focused restaurant web app 
+- 🔹 [DishDrive](https://github.com/Prapul-66/DishDrive-Vendor-Dashboard) – Full-stack vendor management platform with authentication and API integration  
+- 🔹 [News App](https://github.com/Prapul-66/News-App) – Dynamic news app using React with API-based data fetching  
+- 🔹 [Fullstack Mastery](https://github.com/Prapul-66/Fullstack-Mastery) – Multi-page learning platform built with React Router  
+- 🔹 [Restaurant App](https://github.com/Prapul-66/Restaurant-App) – Modern UI-based restaurant website  
 
 ---
 
