@@ -1,7 +1,5 @@
-<!-- 3D WAVE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00F7FF&height=200&section=header&text=Sai%20Prapul&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<!-- HEADER -->
+<h1 align="center" style="color:#00F7FF;">Hi 👋, I'm Sai Prapul</h1>
 
 <h3 align="center">
   💻 Software Developer | 🚀 Full-Stack Engineer | 🎯 Problem Solver
@@ -91,11 +89,4 @@
 
 <p align="center">
   <i>"First solve the problem, then write the code."</i>
-</p>
-
----
-
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0f2027&height=100&section=footer"/>
 </p>
