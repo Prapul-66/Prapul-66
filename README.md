@@ -31,7 +31,21 @@
 
 ---
 
+## 🧩 Core Skills
 
+- 💻 Programming: JavaScript, Python  
+- ⚙️ Backend: Node.js, Express.js, REST APIs  
+- 🎨 Frontend: React.js, HTML, CSS  
+- 🗄️ Databases: MongoDB, MySQL  
+- 🧠 Core CS: Data Structures & Algorithms, OOP, DBMS  
+
+---
+
+## 🚧 Currently Working On
+
+- 🔹 Improving **Data Structures & Algorithms (DSA)**  
+- 🔹 Building **full-stack projects with real-world use cases**  
+- 🔹 Learning **backend optimization & system design basics**  
 
 ---
 
