@@ -50,24 +50,20 @@
 ---
 
 ## 🚀 Featured Projects
-
-🔹 **DishDrive**  
+🔹 **VendorFlow**  
 💡 Full-stack vendor platform with authentication & APIs  
 🔗 https://github.com/Prapul-66/DishDrive-Vendor-Dashboard  
-
-🔹 **News App**  
+🔹 **NewsStream**  
 💡 Real-time news app using React & APIs  
 🔗 https://github.com/Prapul-66/News-App  
-
-🔹 **Fullstack Mastery**  
+🔹 **CoreStack**  
 💡 Multi-page React learning platform  
 🔗 https://github.com/Prapul-66/Fullstack-Mastery  
-
-🔹 **Restaurant App**  
+🔹 **DineFlow**  
 💡 Modern responsive UI-based web app  
 🔗 https://github.com/Prapul-66/Restaurant-App  
-
 ---
+
 
 ## 🌐 Connect With Me
 
